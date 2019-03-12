@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+
+font name: vremenagroteskmedium
+font link: https://www.fontspring.com/fonts/abstrkt/vremena?utm_source=fontsquirrel.com&utm_medium=download_link&utm_campaign=vremena-grotesk#firstfreeproduct
+font author: ABSTRKT
+font author site: 
+
+icon designer: Garrett Knoll
+icon designer link: /g_a.k_
+        
+{"bg":"#EADEFA","icon-gradient-0":"#E90DCA","icon-gradient-1":"#1536F1","font":"#23073F"}
+      
